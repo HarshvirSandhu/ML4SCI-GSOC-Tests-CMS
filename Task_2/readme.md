@@ -35,6 +35,9 @@ The column `X_jets` contains nested array which can be rearranged to `125x125` m
 
 ## Comparing Model performance
 
+As can be seen from the table below, the ResNet model achieves a higher accuracy compared to the VGG model. 
+Additionally, ResNet has a smaller architecture, making it faster in terms of computation when compared to VGG.
+
 | Model        | Test Accuracy |
 |-----------------------------|------------|
 | Resnet    | 72.41666666%     |
