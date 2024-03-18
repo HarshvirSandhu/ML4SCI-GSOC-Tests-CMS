@@ -34,3 +34,8 @@ The column `X_jets` contains nested array which can be rearranged to `125x125` m
 
 
 ## Comparing Model performance
+
+| Model        | Test Accuracy |
+|-----------------------------|------------|
+| Resnet    | 72.41666666%     |
+| VGG (12 Layer)   | 72.21%    |
